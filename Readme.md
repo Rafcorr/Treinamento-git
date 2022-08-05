@@ -10,5 +10,8 @@ Essas linhas foram adicionadas pelo terminal do vsCode
 # Pull request
 Essas linhas foram adicionadas à main via pull request
 
+# Conflitos
+Essas linhas foram adicionadas apenas à branch "conflito"
+
 # Conflitos (main)
 Essas linhas foram adicionadas após a criação da branch conflitos (que não foi atualizada)
