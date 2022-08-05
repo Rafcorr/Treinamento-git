@@ -9,3 +9,6 @@ Essas linhas foram adicionadas pelo terminal do vsCode
 
 # Pull request
 Essas linhas foram adicionadas à main via pull request
+
+# Conflitos
+Essas linhas foram adicionadas apenas à branch "conflito"
